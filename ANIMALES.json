@@ -1,0 +1,547 @@
+[
+ {
+  "NAME": "ANIMALS",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/ANIMALS.mp3"
+ },
+ {
+  "NAME": "Bee",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/ABEJA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20Bee.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Eagle",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/%C3%81GUILA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20eagle.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Spider",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/ARA%C3%91A.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20spider.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Squirrel",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/ARDILLA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20squirrel.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Whale",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/BALLENA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20whale.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Owl",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/B%C3%9AHO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20owl.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Horse",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CABALLO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20horse.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Crab",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CANGREJO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20crab.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Kangaroo",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CANGURO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20kangaroo.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Snail",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CARACOL.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20snail.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Zebra",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CEBRA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20zebra.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Pig",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CERDO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20penguin.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Deer",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CIERVO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20deer.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Crocodile",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/COCODRILO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20crocodile.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Rabbit",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CONEJO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20rabbit.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Dolphin",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/DELF%C3%8DN.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20dolphin.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Elephant",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/ELEFANTE.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20elephantY%20NAME%20IS%20ELEPHANT%20(2).mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Seal",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/FOCA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20seal.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Hen",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/GALLINA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20hen.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Rooster",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/GALLO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20rooster.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Cat",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/GATO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20cat.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Hamster",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/H%C3%81MSTER.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20hamster.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Hippopotamus",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/HIPOP%C3%93TAMO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20hippopotamus.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Ant",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/HORMIGA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20Bee.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Giraffe",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/JIRAFA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20giraffe.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Koala",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/KOALA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20koala.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Lion",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/LE%C3%93N.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20lion.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Dragonfly",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/LIB%C3%89LULA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20dragonfly.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Wolf",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/LOBO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20wolf.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Butterfly",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/MARIPOSA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20butterfly.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Ladybug",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/MARIQUITA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20ladybug.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Monkey",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/MONO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20monkey.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Fly",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/MOSCA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20fly.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Residuos, fruta descompuesta, basura"
+ },
+ {
+  "NAME": "Mosquito",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/MOSQUITO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20mosquito.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Néctar, savia de plantas (ambos sexos); Sangre (solo hembras)"
+ },
+ {
+  "NAME": "Bear",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OSO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20bear.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Polar bear",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OSO%20POLAR.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20polar%20bear.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Sheep",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OVEJA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20sheep.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Bird",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/P%C3%81JARO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20bird.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Duck",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/PATO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20duck.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Dog",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/PERRO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20dog.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Fish",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/PEZ.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20fish.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Penguin",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/PING%C3%9CINO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20penguin.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Octopus",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/PULPO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20octopus.mp3",
+  "ESQUELETO_INTERNO": "Invertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Frog",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/RANA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20frog.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Mouse",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/RAT%C3%93N.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20mouse.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Reindeer",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/RENO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20reindeer.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Rhinoceros",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/RINOCERONTE.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20rhinoceros.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Snake",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/SERPIENTE.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20snake.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Shark",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/TIBUR%C3%93N.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20shark.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Tiger",
+  "HABITAT": "Sabana",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/TIGRE.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20tiger.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Carnívoro"
+ },
+ {
+  "NAME": "Turtle",
+  "HABITAT": "Marino",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/TORTUGA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20turtle.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Ovíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ {
+  "NAME": "Cow",
+  "HABITAT": "Granja",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/VACA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20cow.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Herbívoro"
+ },
+ {
+  "NAME": "Fox",
+  "HABITAT": "Bosque",
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/ZORRO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/My%20name%20is%20fox.mp3",
+  "ESQUELETO_INTERNO": "Vertebrado",
+  "FORMA_NACER": "Vivíparo",
+  "ALIMENTACION": "Omnívoro"
+ },
+ null,
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/SABANA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/SAVANNAH%20ANIMALS.mp3",
+  "OTROS": "SABANA"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/BOSQUE.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/FOREST%20ANIMALS.mp3",
+  "OTROS": "FOREST"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/GRANJA.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/FARM%20ANIMALS.mp3",
+  "OTROS": "FARM"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/MARINO.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/MARINE%20ANIMALS.mp3",
+  "OTROS": "MARINE"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/HERBIVOROUS.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/HERBIVOROUS%20ANIMALS.mp3",
+  "OTROS": "HERVIVOROUS"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CARNIVOROUS.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/eee33b4f061de7f4c930da59cc7991493e0bb4c3\/AUDIO_PATH\/CARNIVOROUS%20ANIMALS.mp3",
+  "OTROS": "CARNIVOROUS"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OMNIVOROUS.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/ONMIVOROUS%20ANIMALS.mp3",
+  "OTROS": "OMNIVOROUS"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OVIPAROUS.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/OVIPAROUS%20ANIMALS.mp3",
+  "OTROS": "OVIPAROUS"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/VIVIPAROUS.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/VIVIPAROUS%20ANIMALS.mp3",
+  "OTROS": "VIVIPAROUS"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/VERTEBRATE.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/VERTEBRATE%20ANIMALS.mp3",
+  "OTROS": "VERTEBRATE"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/INVERTEBRATE.png",
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/INVERTEBRATE%20ANIMALS.mp3",
+  "OTROS": "INVERTEBRATE"
+ },
+ {
+  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/PORTADA.png",
+  "OTROS": "PORTADA"
+ },
+ {
+  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/NICE%20TO%20MEET%20YOU.mp3",
+  "OTROS": "NICE TO MEET YOU"
+ }
+]
