@@ -1,9 +1,5 @@
 [
  {
-  "NAME": "ANIMALS",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/ANIMALS.mp3"
- },
- {
   "NAME": "Bee",
   "HABITAT": "Bosque",
   "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/ABEJA.png",
@@ -479,69 +475,5 @@
   "ESQUELETO_INTERNO": "Vertebrado",
   "FORMA_NACER": "Vivíparo",
   "ALIMENTACION": "Omnívoro"
- },
- null,
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/SABANA.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/SAVANNAH%20ANIMALS.mp3",
-  "OTROS": "SABANA"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/BOSQUE.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/FOREST%20ANIMALS.mp3",
-  "OTROS": "FOREST"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/GRANJA.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/FARM%20ANIMALS.mp3",
-  "OTROS": "FARM"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/MARINO.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/MARINE%20ANIMALS.mp3",
-  "OTROS": "MARINE"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/HERBIVOROUS.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/HERBIVOROUS%20ANIMALS.mp3",
-  "OTROS": "HERVIVOROUS"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CARNIVOROUS.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/eee33b4f061de7f4c930da59cc7991493e0bb4c3\/AUDIO_PATH\/CARNIVOROUS%20ANIMALS.mp3",
-  "OTROS": "CARNIVOROUS"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OMNIVOROUS.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/ONMIVOROUS%20ANIMALS.mp3",
-  "OTROS": "OMNIVOROUS"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OVIPAROUS.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/OVIPAROUS%20ANIMALS.mp3",
-  "OTROS": "OVIPAROUS"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/VIVIPAROUS.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/VIVIPAROUS%20ANIMALS.mp3",
-  "OTROS": "VIVIPAROUS"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/VERTEBRATE.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/VERTEBRATE%20ANIMALS.mp3",
-  "OTROS": "VERTEBRATE"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/INVERTEBRATE.png",
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/INVERTEBRATE%20ANIMALS.mp3",
-  "OTROS": "INVERTEBRATE"
- },
- {
-  "IMAGE_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/PORTADA.png",
-  "OTROS": "PORTADA"
- },
- {
-  "AUDIO_PATH": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/NICE%20TO%20MEET%20YOU.mp3",
-  "OTROS": "NICE TO MEET YOU"
  }
 ]
