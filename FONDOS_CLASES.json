@@ -1,0 +1,57 @@
+[
+ {
+  "OTROS": "SABANA",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/SABANA.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/SAVANNAH%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "FOREST",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/BOSQUE.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/FOREST%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "FARM",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/GRANJA.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/FARM%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "MARINE",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/MARINO.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/MARINE%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "HERVIVOROUS",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/HERBIVOROUS.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/HERBIVOROUS%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "CARNIVOROUS",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/CARNIVOROUS.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/eee33b4f061de7f4c930da59cc7991493e0bb4c3\/AUDIO_PATH\/CARNIVOROUS%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "OMNIVOROUS",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OMNIVOROUS.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/ONMIVOROUS%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "OVIPAROUS",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/OVIPAROUS.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/OVIPAROUS%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "VIVIPAROUS",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/VIVIPAROUS.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/VIVIPAROUS%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "VERTEBRATE",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/VERTEBRATE.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/VERTEBRATE%20ANIMALS.mp3"
+ },
+ {
+  "OTROS": "INVERTEBRATE",
+  "IMAGEN": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/IMAGE_PATH\/INVERTEBRATE.png",
+  "AUDIO": "https:\/\/github.com\/iaworksarabia\/ANIMALS\/blob\/80752a9d77970bd88dc24d2f670ba335784d3f1e\/AUDIO_PATH\/INVERTEBRATE%20ANIMALS.mp3"
+ }
+]
